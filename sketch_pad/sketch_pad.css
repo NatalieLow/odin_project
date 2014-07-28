@@ -1,0 +1,18 @@
+#grid_container{
+	width: 960px;
+	height: 960px;
+}
+
+.column{
+	background-color: #aaa;
+	border: 1px solid #777;
+	float: left;
+}
+.row{
+	width: 100%;
+	clear: both;
+}
+
+/*input{
+	float: right;
+}*/
