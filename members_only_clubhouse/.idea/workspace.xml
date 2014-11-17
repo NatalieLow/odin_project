@@ -1,78 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6c77253-68ab-4297-b6f9-3a3a340552ce" name="Default" comment="" />
-    <ignored path="UserModelTutorial.iws" />
+    <list default="true" id="86da59c6-5c21-43a6-8f6d-5ec924580f27" name="Default" comment="" />
+    <ignored path="members_only_clubhouse.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1414730268929" ignored="false" />
-    <file path="/user_test.rb" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1415694838374" ignored="false" />
-    <file path="/user.rb" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1415989946992" ignored="false" />
-    <file path="/20141018233946_add_index_to_users_email.rb" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1413675649057" ignored="false" />
-    <file path="/Gemfile" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1415650042245" ignored="false" />
-    <file path="/application.html.erb" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1416008199356" ignored="false" />
-    <file path="/application.css" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1415412573065" ignored="false" />
-    <file path="/routes.rb" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1415844526716" ignored="false" />
-    <file path="/users_controller.rb" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1415749931841" ignored="false" />
-    <file path="/show.html.erb" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1416247645219" ignored="false" />
-    <file path="/users_helper.rb" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1415650131752" ignored="false" />
-    <file path="/new.html.erb" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1415746796266" ignored="false" />
-    <file path="/_error_messages.html.erb" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1414601756811" ignored="false" />
-    <file path="/seconds_to_min_hrs" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1414651901059" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../scratch/seconds_to_min_hrs" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1414651903055" ignored="false" />
-    <file path="/seconds_to_min_hr.rb" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1414652434001" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../scratch/seconds_to_min_hr.rb" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1414652445422" ignored="false" />
-    <file path="/users_signup_test.rb" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1415038178690" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../community_nosh/config/environments/production.rb" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1414707709287" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../community_nosh/Gemfile" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1414707936229" ignored="false" />
-    <file path="/unicorn.rb" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1414708559863" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../community_nosh/config/unicorn.rb" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1414708579909" ignored="false" />
-    <file path="$PROJECT_DIR$/../../../community_nosh/Procfile" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1414708964121" ignored="false" />
-    <file path="/Procfile" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1414708964121" ignored="false" />
-    <file path="/sessions_controller.rb" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1416006179063" ignored="false" />
-    <file path="/users_login_test.rb" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1415145867526" ignored="false" />
-    <file path="/application_controller.rb" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1416008454734" ignored="false" />
-    <file path="/sessions_helper.rb" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1415748903639" ignored="false" />
-    <file path="/_header.html.erb" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1415412825458" ignored="false" />
-    <file path="/users.yml" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1415641747132" ignored="false" />
-    <file path="/test_helper.rb" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1415140919002" ignored="false" />
-    <file path="/sessions_helper_test.rb" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1415207632817" ignored="false" />
-    <file path="/edit.html.erb" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1415233186620" ignored="false" />
-    <file path="/users_edit_test.rb" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1415405237769" ignored="false" />
-    <file path="/users_controller_test.rb" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1415642563663" ignored="false" />
-    <file path="/index.html.erb" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1416247349546" ignored="false" />
-    <file path="/seeds.rb" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1415581375352" ignored="false" />
-    <file path="/users_index_test.rb" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1415644335905" ignored="false" />
-    <file path="/_user.html.erb" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1415646025691" ignored="false" />
-    <file path="/20141110005041_add_admin_to_users.rb" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1415580736839" ignored="false" />
-    <file path="$PROJECT_DIR$/../members_only_clubhouse/app/controllers/users_controller.rb" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1416007836357" ignored="false" />
-    <file path="$PROJECT_DIR$/../members_only_clubhouse/config/routes.rb" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1415844568036" ignored="false" />
-    <file path="$PROJECT_DIR$/../members_only_clubhouse/README.rdoc" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1415648832812" ignored="false" />
-    <file path="/README.rdoc" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1415648818818" ignored="false" />
-    <file path="$PROJECT_DIR$/../members_only_clubhouse/db/migrate/20141110200245_add_index_to_users.rb" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1415649851483" ignored="false" />
-    <file path="/20141110200245_add_index_to_users.rb" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1415649851483" ignored="false" />
-    <file path="$PROJECT_DIR$/../members_only_clubhouse/db/schema.rb" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1415751699595" ignored="false" />
-    <file path="$PROJECT_DIR$/../members_only_clubhouse/Gemfile" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1415650042245" ignored="false" />
-    <file path="$PROJECT_DIR$/../members_only_clubhouse/app/helpers/users_helper.rb" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1415650569061" ignored="false" />
-    <file path="$PROJECT_DIR$/../members_only_clubhouse/app/models/user.rb" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1415989947955" ignored="false" />
-    <file path="$PROJECT_DIR$/../members_only_clubhouse/test/models/user_test.rb" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1415694869271" ignored="false" />
-    <file path="$PROJECT_DIR$/../members_only_clubhouse/app/views/session/new.html.erb" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1415746119484" ignored="false" />
-    <file path="$PROJECT_DIR$/../members_only_clubhouse/app/controllers/session_controller.rb" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1415746358407" ignored="false" />
-    <file path="/session_controller.rb" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1415746358407" ignored="false" />
-    <file path="$PROJECT_DIR$/../members_only_clubhouse/app/helpers/sessions_helper.rb" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1415841126409" ignored="false" />
-    <file path="$PROJECT_DIR$/../members_only_clubhouse/test/controllers/sessions_controller_test.rb" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1415746615709" ignored="false" />
-    <file path="$PROJECT_DIR$/../members_only_clubhouse/test/helpers/sessions_helper_test.rb" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1415746649279" ignored="false" />
-    <file path="$PROJECT_DIR$/../members_only_clubhouse/app/views/sessions/new.html.erb" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1415746941968" ignored="false" />
-    <file path="$PROJECT_DIR$/../members_only_clubhouse/app/controllers/sessions_controller.rb" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1416006624182" ignored="false" />
-    <file path="$PROJECT_DIR$/../members_only_clubhouse/db/migrate/20141111235633_add_remember_token_to_users.rb" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1415751638849" ignored="false" />
-    <file path="/20141111235633_add_remember_token_to_users.rb" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1415751639155" ignored="false" />
-    <file path="$PROJECT_DIR$/../members_only_clubhouse/app/views/users/show.html.erb" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1416247662752" ignored="false" />
-    <file path="$PROJECT_DIR$/../members_only_clubhouse/app/controllers/application_controller.rb" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1416008855641" ignored="false" />
-    <file path="$PROJECT_DIR$/../members_only_clubhouse/app/views/layouts/application.html.erb" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1416008755263" ignored="false" />
-    <file path="/a.dummy" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1415928191035" ignored="false" />
-    <file path="$PROJECT_DIR$/../members_only_clubhouse/app/controllers/posts_controller.rb" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1416246296485" ignored="false" />
-    <file path="/posts_controller.rb" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1416246294583" ignored="false" />
-    <file path="$PROJECT_DIR$/../members_only_clubhouse/app/views/posts/index.html.erb" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1416247397435" ignored="false" />
-    <file path="$PROJECT_DIR$/../members_only_clubhouse/app/views/posts/new.html.erb" changelist="d6c77253-68ab-4297-b6f9-3a3a340552ce" time="1416211990250" ignored="false" />
+    <file path="/users_controller.rb" changelist="86da59c6-5c21-43a6-8f6d-5ec924580f27" time="1415749931841" ignored="false" />
+    <file path="/README.rdoc" changelist="86da59c6-5c21-43a6-8f6d-5ec924580f27" time="1415648818818" ignored="false" />
+    <file path="/20141110200245_add_index_to_users.rb" changelist="86da59c6-5c21-43a6-8f6d-5ec924580f27" time="1415649851483" ignored="false" />
+    <file path="/Gemfile" changelist="86da59c6-5c21-43a6-8f6d-5ec924580f27" time="1415650042245" ignored="false" />
+    <file path="/users_helper.rb" changelist="86da59c6-5c21-43a6-8f6d-5ec924580f27" time="1415650131752" ignored="false" />
+    <file path="/user.rb" changelist="86da59c6-5c21-43a6-8f6d-5ec924580f27" time="1416098209613" ignored="false" />
+    <file path="/user_test.rb" changelist="86da59c6-5c21-43a6-8f6d-5ec924580f27" time="1415694838374" ignored="false" />
+    <file path="/routes.rb" changelist="86da59c6-5c21-43a6-8f6d-5ec924580f27" time="1416183656334" ignored="false" />
+    <file path="/new.html.erb" changelist="86da59c6-5c21-43a6-8f6d-5ec924580f27" time="1416209282374" ignored="false" />
+    <file path="/session_controller.rb" changelist="86da59c6-5c21-43a6-8f6d-5ec924580f27" time="1415746358407" ignored="false" />
+    <file path="/sessions_controller.rb" changelist="86da59c6-5c21-43a6-8f6d-5ec924580f27" time="1416090814655" ignored="false" />
+    <file path="/sessions_helper.rb" changelist="86da59c6-5c21-43a6-8f6d-5ec924580f27" time="1415748903639" ignored="false" />
+    <file path="/20141111235633_add_remember_token_to_users.rb" changelist="86da59c6-5c21-43a6-8f6d-5ec924580f27" time="1415751639155" ignored="false" />
+    <file path="/show.html.erb" changelist="86da59c6-5c21-43a6-8f6d-5ec924580f27" time="1416247793314" ignored="false" />
+    <file path="/application_controller.rb" changelist="86da59c6-5c21-43a6-8f6d-5ec924580f27" time="1416098380352" ignored="false" />
+    <file path="/application.html.erb" changelist="86da59c6-5c21-43a6-8f6d-5ec924580f27" time="1416248059958" ignored="false" />
+    <file path="/a.dummy" changelist="86da59c6-5c21-43a6-8f6d-5ec924580f27" time="1415928191035" ignored="false" />
+    <file path="/*.regexp" changelist="86da59c6-5c21-43a6-8f6d-5ec924580f27" time="1416098372983" ignored="false" />
+    <file path="/20141117000739_create_posts.rb" changelist="86da59c6-5c21-43a6-8f6d-5ec924580f27" time="1416183209833" ignored="false" />
+    <file path="/post.rb" changelist="86da59c6-5c21-43a6-8f6d-5ec924580f27" time="1416183194912" ignored="false" />
+    <file path="/posts_controller.rb" changelist="86da59c6-5c21-43a6-8f6d-5ec924580f27" time="1416246294583" ignored="false" />
+    <file path="/index.html.erb" changelist="86da59c6-5c21-43a6-8f6d-5ec924580f27" time="1416247995200" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,77 +41,32 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="UserModelTutorial" />
+    <favorites_list name="members_only_clubhouse" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="sessions_controller.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/sessions_controller.rb">
+      <file leaf-file-name="routes.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/routes.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="42" selection-start="267" selection-end="267" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_user.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/users/_user.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="users_controller.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="56" column="61" selection-start="1175" selection-end="1175" vertical-scroll-proportion="0.0">
+            <state line="0" column="48" selection-start="48" selection-end="48" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="new.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/users/new.html.erb">
+        <entry file="file://$PROJECT_DIR$/app/views/sessions/new.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="9" column="25" selection-start="213" selection-end="213" vertical-scroll-proportion="-5.625">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/users/index.html.erb">
+      <file leaf-file-name="posts_controller.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/posts_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="38" selection-start="352" selection-end="352" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sessions_helper.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/helpers/sessions_helper.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="6" selection-start="694" selection-end="694" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_header.html.erb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/views/layouts/_header.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="20" selection-start="126" selection-end="135" vertical-scroll-proportion="0.1039823">
+            <state line="22" column="13" selection-start="475" selection-end="475" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -167,16 +75,61 @@
       <file leaf-file-name="application_controller.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="20" column="85" selection-start="601" selection-end="601" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="user.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/models/user.rb">
+      <file leaf-file-name="20141117000739_create_posts.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db/migrate/20141117000739_create_posts.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="18" selection-start="82" selection-end="82" vertical-scroll-proportion="0.0">
+            <state line="3" column="26" selection-start="114" selection-end="114" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="show.html.erb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/views/users/show.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="0" selection-start="113" selection-end="113" vertical-scroll-proportion="0.13157895">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="4" selection-start="370" selection-end="370" vertical-scroll-proportion="-10.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="new.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/posts/new.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="14" selection-start="33" selection-end="33" vertical-scroll-proportion="-1.25">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sessions_controller.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/sessions_controller.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="33" selection-start="270" selection-end="270" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/posts/index.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="0" selection-start="269" selection-end="269" vertical-scroll-proportion="-8.75">
               <folding />
             </state>
           </provider>
@@ -192,30 +145,30 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/config/routes.rb" />
-        <option value="$PROJECT_DIR$/test/integration/users_edit_test.rb" />
-        <option value="$PROJECT_DIR$/app/controllers/sessions_controller.rb" />
-        <option value="$PROJECT_DIR$/app/helpers/users_helper.rb" />
-        <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
-        <option value="$PROJECT_DIR$/app/views/layouts/_header.html.erb" />
-        <option value="$PROJECT_DIR$/Gemfile" />
-        <option value="$PROJECT_DIR$/app/views/users/index.html.erb" />
-        <option value="$PROJECT_DIR$/db/migrate/20141110005041_add_admin_to_users.rb" />
-        <option value="$PROJECT_DIR$/db/seeds.rb" />
+        <option value="$PROJECT_DIR$/app/controllers/session_controller.rb" />
+        <option value="$PROJECT_DIR$/app/views/sessions/new.html.erb" />
+        <option value="$PROJECT_DIR$/db/migrate/20141111235633_add_remember_token_to_users.rb" />
         <option value="$PROJECT_DIR$/app/helpers/sessions_helper.rb" />
+        <option value="$PROJECT_DIR$/app/controllers/sessions_controller.rb" />
         <option value="$PROJECT_DIR$/app/controllers/users_controller.rb" />
-        <option value="$PROJECT_DIR$/test/fixtures/users.yml" />
-        <option value="$PROJECT_DIR$/test/controllers/users_controller_test.rb" />
-        <option value="$PROJECT_DIR$/test/integration/users_index_test.rb" />
-        <option value="$PROJECT_DIR$/app/views/users/_user.html.erb" />
+        <option value="$PROJECT_DIR$/app/controllers/application_controller.rb" />
+        <option value="$PROJECT_DIR$/app/models/post.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20141117000739_create_posts.rb" />
+        <option value="$PROJECT_DIR$/app/models/user.rb" />
+        <option value="$PROJECT_DIR$/config/routes.rb" />
+        <option value="$PROJECT_DIR$/app/views/posts/new.html.erb" />
+        <option value="$PROJECT_DIR$/app/controllers/posts_controller.rb" />
+        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/posts/index.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/users/show.html.erb" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="10" />
-    <option name="y" value="22" />
-    <option name="width" value="1293" />
-    <option name="height" value="624" />
+    <option name="x" value="1" />
+    <option name="y" value="25" />
+    <option name="width" value="1366" />
+    <option name="height" value="742" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -249,113 +202,27 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="UserModelTutorial" />
+              <option name="myItemId" value="members_only_clubhouse" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="UserModelTutorial" />
+              <option name="myItemId" value="members_only_clubhouse" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="User_Updating_Showing_Deleting" />
+              <option name="myItemId" value="members_only_clubhouse" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="UserModelTutorial" />
+              <option name="myItemId" value="members_only_clubhouse" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="User_Updating_Showing_Deleting" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="UserModelTutorial" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="User_Updating_Showing_Deleting" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="models" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="UserModelTutorial" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="User_Updating_Showing_Deleting" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="integration" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="UserModelTutorial" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="User_Updating_Showing_Deleting" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fixtures" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="UserModelTutorial" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="User_Updating_Showing_Deleting" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="UserModelTutorial" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="User_Updating_Showing_Deleting" />
+              <option name="myItemId" value="members_only_clubhouse" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -365,11 +232,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="UserModelTutorial" />
+              <option name="myItemId" value="members_only_clubhouse" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="User_Updating_Showing_Deleting" />
+              <option name="myItemId" value="members_only_clubhouse" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -383,11 +250,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="UserModelTutorial" />
+              <option name="myItemId" value="members_only_clubhouse" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="User_Updating_Showing_Deleting" />
+              <option name="myItemId" value="members_only_clubhouse" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -397,11 +264,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="UserModelTutorial" />
+              <option name="myItemId" value="members_only_clubhouse" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="User_Updating_Showing_Deleting" />
+              <option name="myItemId" value="members_only_clubhouse" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -419,55 +286,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="UserModelTutorial" />
+              <option name="myItemId" value="members_only_clubhouse" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="User_Updating_Showing_Deleting" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static_pages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="UserModelTutorial" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="User_Updating_Showing_Deleting" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shared" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="UserModelTutorial" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="User_Updating_Showing_Deleting" />
+              <option name="myItemId" value="members_only_clubhouse" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -485,11 +308,33 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="UserModelTutorial" />
+              <option name="myItemId" value="members_only_clubhouse" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="User_Updating_Showing_Deleting" />
+              <option name="myItemId" value="members_only_clubhouse" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="posts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="members_only_clubhouse" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="members_only_clubhouse" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -507,11 +352,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="UserModelTutorial" />
+              <option name="myItemId" value="members_only_clubhouse" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="User_Updating_Showing_Deleting" />
+              <option name="myItemId" value="members_only_clubhouse" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -525,11 +370,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="UserModelTutorial" />
+              <option name="myItemId" value="members_only_clubhouse" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="User_Updating_Showing_Deleting" />
+              <option name="myItemId" value="members_only_clubhouse" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -539,11 +384,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="UserModelTutorial" />
+              <option name="myItemId" value="members_only_clubhouse" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="User_Updating_Showing_Deleting" />
+              <option name="myItemId" value="members_only_clubhouse" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -557,11 +402,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="UserModelTutorial" />
+              <option name="myItemId" value="members_only_clubhouse" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="User_Updating_Showing_Deleting" />
+              <option name="myItemId" value="members_only_clubhouse" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -575,55 +420,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="UserModelTutorial" />
+              <option name="myItemId" value="members_only_clubhouse" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="User_Updating_Showing_Deleting" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="stylesheets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="UserModelTutorial" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="User_Updating_Showing_Deleting" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javascripts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="UserModelTutorial" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="User_Updating_Showing_Deleting" />
+              <option name="myItemId" value="members_only_clubhouse" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -644,12 +445,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../User_Updating_Showing_Deleting" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
   </component>
-  <component name="RunManager" selected="Rails.Development: UserModelTutorial">
+  <component name="RunManager" selected="Rails.Development: members_only_clubhouse">
     <configuration default="true" type="RakeRunConfigurationType" factoryName="Rake">
       <module name="" />
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -784,7 +584,7 @@
       <method />
     </configuration>
     <configuration default="false" name="test" type="RakeRunConfigurationType" factoryName="Rake">
-      <module name="UserModelTutorial" />
+      <module name="members_only_clubhouse" />
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
@@ -810,7 +610,7 @@
       <method />
     </configuration>
     <configuration default="false" name="spec" type="RakeRunConfigurationType" factoryName="Rake">
-      <module name="UserModelTutorial" />
+      <module name="members_only_clubhouse" />
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
@@ -833,9 +633,9 @@
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Production: UserModelTutorial" type="RailsRunConfigurationType" factoryName="Rails">
+    <configuration default="false" name="Production: members_only_clubhouse" type="RailsRunConfigurationType" factoryName="Rails">
       <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
-      <module name="UserModelTutorial" />
+      <module name="members_only_clubhouse" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
@@ -859,9 +659,9 @@
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Development: UserModelTutorial" type="RailsRunConfigurationType" factoryName="Rails">
+    <configuration default="false" name="Development: members_only_clubhouse" type="RailsRunConfigurationType" factoryName="Rails">
       <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
-      <module name="UserModelTutorial" />
+      <module name="members_only_clubhouse" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
@@ -888,28 +688,29 @@
     <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Rake.test" />
       <item index="1" class="java.lang.String" itemvalue="Rake.spec" />
-      <item index="2" class="java.lang.String" itemvalue="Rails.Production: UserModelTutorial" />
-      <item index="3" class="java.lang.String" itemvalue="Rails.Development: UserModelTutorial" />
+      <item index="2" class="java.lang.String" itemvalue="Rails.Production: members_only_clubhouse" />
+      <item index="3" class="java.lang.String" itemvalue="Rails.Development: members_only_clubhouse" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d6c77253-68ab-4297-b6f9-3a3a340552ce" name="Default" comment="" />
-      <created>1413495670753</created>
-      <updated>1413495670753</updated>
+      <changelist id="86da59c6-5c21-43a6-8f6d-5ec924580f27" name="Default" comment="" />
+      <created>1415647428172</created>
+      <updated>1415647428172</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="22" width="1293" height="624" extended-state="0" />
+    <frame x="1" y="25" width="1366" height="742" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32713178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3055333" sideWeight="0.7552182" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25378788" sideWeight="0.6728682" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -918,7 +719,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24478178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -985,68 +785,14 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/models/user_test.rb">
+    <entry file="file://$PROJECT_DIR$/app/helpers/users_helper.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/routes.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="14" selection-start="476" selection-end="476" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="40" selection-start="621" selection-end="621" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/sessions/new.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/users/show.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/users/_user.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="38" selection-start="352" selection-end="352" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/user.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="18" selection-start="82" selection-end="82" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
+    <entry file="file://$PROJECT_DIR$/app/helpers/application_helper.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
@@ -1055,42 +801,98 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/helpers/sessions_helper.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="6" selection-start="694" selection-end="694" vertical-scroll-proportion="0.0">
+        <state line="1" column="2" selection-start="22" selection-end="22" vertical-scroll-proportion="0.025252525">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/sessions_controller.rb">
+    <entry file="file://$PROJECT_DIR$/app/models/user.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="42" selection-start="267" selection-end="267" vertical-scroll-proportion="0.0">
+        <state line="0" column="31" selection-start="31" selection-end="31" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/users/new.html.erb">
+    <entry file="file://$PROJECT_DIR$/app/models/post.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="1" column="43" selection-start="75" selection-end="75" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="61" selection-start="1175" selection-end="1175" vertical-scroll-proportion="0.0">
+        <state line="6" column="26" selection-start="135" selection-end="135" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/users/index.html.erb">
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="0" column="48" selection-start="48" selection-end="48" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/_header.html.erb">
+    <entry file="file://$PROJECT_DIR$/app/controllers/sessions_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="20" selection-start="126" selection-end="135" vertical-scroll-proportion="0.1039823">
+        <state line="8" column="33" selection-start="270" selection-end="270" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="85" selection-start="601" selection-end="601" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20141117000739_create_posts.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="26" selection-start="114" selection-end="114" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/posts_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="13" selection-start="475" selection-end="475" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="4" selection-start="370" selection-end="370" vertical-scroll-proportion="-10.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/posts/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="269" selection-end="269" vertical-scroll-proportion="-8.75">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/posts/new.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="14" selection-start="33" selection-end="33" vertical-scroll-proportion="-1.25">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/sessions/new.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="25" selection-start="213" selection-end="213" vertical-scroll-proportion="-5.625">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/users/show.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="113" selection-end="113" vertical-scroll-proportion="0.13157895">
           <folding />
         </state>
       </provider>
