@@ -59,4 +59,13 @@ MembersOnlyClubhouse::Application.routes.draw do
   #     # (app/controllers/admin/products_controller.rb)
   #     resources :products
   #   end
+
+  resources :topics do
+    #member do
+    #post 'upvote'
+    #end
+    collection do
+      post 'upvote'
+    end
+  end
 end
